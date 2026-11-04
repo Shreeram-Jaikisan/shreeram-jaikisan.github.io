@@ -1,0 +1,24 @@
+header:
+  - titles:
+      en: Home
+    url: /
+
+  - titles:
+      en: Research
+    url: /research/
+
+  - titles:
+      en: Blog
+    url: /blog/
+
+  - titles:
+      en: Art
+    url: /art/
+
+  - titles:
+      en: Photos
+    url: /photos/
+
+  - titles:
+      en: Travel
+    url: /photos/#travel

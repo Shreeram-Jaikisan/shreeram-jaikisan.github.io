@@ -1,0 +1,7 @@
+title: Shreeram Jaikisan
+description: Personal website
+url: ""
+baseurl: ""
+theme: jekyll-text-theme
+header:
+  theme: dark

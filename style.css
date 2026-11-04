@@ -832,3 +832,21 @@ body.inner-page main {
         animation-duration: 0.01ms !important;
     }
 }
+
+/* Homepage cover banner */
+.article__header {
+  height: 55vh !important;
+  min-height: 0 !important;
+  max-height: 600px !important;
+}
+
+.article__header .cover {
+  height: 100% !important;
+}
+
+.article__header .cover img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  object-position: center !important;
+}
